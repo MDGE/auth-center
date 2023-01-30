@@ -1,0 +1,17 @@
+node_modules/
+.storybook/
+.idea/
+dist/
+docs/
+sdk
+conf/
+scripts
+tests/
+.eslintrc
+jest.config.js
+webpack.base.js
+postcss.config.js
+src/stories
+commitlint.config.js
+tailwind.config.js
+src/common/icon/iconfont.js
