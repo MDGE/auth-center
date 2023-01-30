@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+/* .ant-layout-sider {
+    @apply bg-base;
+}
+.ant-menu.ant-menu-dark {
+    @apply bg-base;
+} */
+/* .ant-layout-header {
+    @apply bg-base !important;
+} */
+@tailwind utilities;
+body, html {
+    margin: 0;
+    padding:0;
+}
+#root {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background-size:100% 100%;
+}
+.ant-table-thead>tr>th{
+  padding:8px 4px !important;
+}
+.ant-table-tbody>tr>td{
+  padding:4px 4px !important;
+}
+@layer base {
+    /* :root {
+      --color-base: theme('colors.white');
+      --color-text-base: theme('colors.black');
+      --color-off-base: theme('colors.gray.50');
+      --color-text-muted: theme('colors.gray.600');
+      --color-text-muted-hover: theme('colors.blue.500');
+      --color-primary: theme('colors.blue.800');
+      --color-secondary: theme('colors.blue.200');
+    } */
+  
+    /* .theme-light {
+      --color-base: theme('colors.white');
+      --color-text-base: theme('colors.black');
+      --color-off-base: theme('colors.gray.50');
+      --color-text-muted: theme('colors.gray.600');
+      --color-text-muted-hover: theme('colors.blue.500');
+      --color-primary: theme('colors.blue.600');
+      --color-secondary: theme('colors.blue.300');
+    }
+  
+    .theme-dark {
+      --color-base: theme('colors.gray.900');
+      --color-text-base: theme('colors.gray.100');
+      --color-off-base: theme('colors.gray.800');
+      --color-text-muted: theme('colors.gray.300');
+      --color-text-muted-hover: theme('colors.blue.200');
+      --color-primary: theme('colors.blue.500');
+      --color-secondary: theme('colors.blue.200');
+    }
+  
+    .theme-solar {
+      --color-base: theme('colors.rose.50');
+      --color-text-base: theme('colors.gray.800');
+      --color-off-base: theme('colors.rose.200');
+      --color-text-muted: theme('colors.gray.600');
+      --color-text-muted-hover: theme('colors.rose.500');
+      --color-primary: theme('colors.amber.700');
+      --color-secondary: theme('colors.amber.400');
+    }
+  
+    .theme-evergreen {
+      --color-base: theme('colors.green.900');
+      --color-text-base: theme('colors.green.100');
+      --color-off-base: theme('colors.green.800');
+      --color-text-muted: theme('colors.green.200');
+      --color-text-muted-hover: theme('colors.green.500');
+      --color-primary: theme('colors.lime.500');
+      --color-secondary: theme('colors.lime.50');
+    } */
+}
+

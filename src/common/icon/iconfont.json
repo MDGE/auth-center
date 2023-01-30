@@ -1,0 +1,37 @@
+{
+  "id": "3849278",
+  "name": "纳通用户中心",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577364",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "5961366",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "ec6b",
+      "unicode_decimal": 60523
+    },
+    {
+      "icon_id": "7015519",
+      "name": "状态",
+      "font_class": "zhuangtai",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "28715055",
+      "name": "组件管理",
+      "font_class": "a-zujianguanli",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
