@@ -63,7 +63,7 @@ function Index() {
         </Form.Item>
         <Form.Item>
           <Button type="primary" htmlType="submit" className="w-full">
-            登陆
+            登陆1
           </Button>
         </Form.Item>
       </Form>
