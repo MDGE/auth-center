@@ -51,7 +51,7 @@ const prodConfig = {
     ],
   },
   plugins: [
-    new BundleAnalyzerPlugin()
+    // new BundleAnalyzerPlugin()
   ],
 };
 module.exports = merge(base, prodConfig);
