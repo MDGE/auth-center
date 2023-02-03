@@ -26,6 +26,5 @@ git commit -m "" :
       "pre-commit": "lint-staged"
     }
   },
-  测试代码
 
 
